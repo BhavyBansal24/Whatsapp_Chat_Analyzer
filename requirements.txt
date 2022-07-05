@@ -1,7 +1,7 @@
-emoji
-matplotlib>=1.4.3
-pandas
-seaborn
 streamlit
+matplotlib
+seaborn
 urlextract
 wordcloud
+pandas
+emoji
