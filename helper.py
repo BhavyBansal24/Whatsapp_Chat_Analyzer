@@ -1,7 +1,6 @@
 import pandas as pd
 from collections import Counter
 from wordcloud import WordCloud
-from turtle import back
 from urlextract import URLExtract
 import emoji
 extractor = URLExtract()
