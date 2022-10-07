@@ -5,20 +5,20 @@ It is a WebApp created using [Streamlit](https://streamlit.io/), In app a user c
 ## How to use Whatsapp_Chat_Analyzer web-app:
 * click [here](https://whatsapp-chat-analyzer-bhavy.herokuapp.com/ )
 * Click on Browse Files
-* ![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/browse.jpeg?raw=true)
+![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/browse.jpeg?raw=true)
 * Upload your exported(.txt) file, Model will analyze your uploaded chat file.
 ![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/open.jpeg?raw=true)
 * After uploading completes, you will see the option to get analysis with respect to particular person, choose appropriately and click on Show analysis.
 * ![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/show.jpeg?raw=true)
-* Then check the right hand side of the app,
-* - Top Analysis Stats
-* - Monthly/Daily Timeline
-* - Activity Map
-* - Activity Heatmap
-* - Most Busy Users
-* - Word Cloud
-* - Most common Words
-* - Emoji Frequency
+* Then check the right hand side of the app to view,
+  - Top Analysis Stats
+  - Monthly/Daily Timeline
+  - Activity Map
+  - Activity Heatmap
+  - Most Busy Users
+  - Word Cloud
+  - Most common Words
+  - Emoji Frequency
 
 ********************************************
 ### Do 🌟 this Github Repository, Hope you have loved my work
