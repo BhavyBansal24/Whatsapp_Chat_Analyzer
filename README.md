@@ -1,7 +1,7 @@
 # Whatsapp_Chat_Analyzer
 It is a WebApp created using [Streamlit](https://streamlit.io/), In app a user can upload .txt file of any WhatsApp group or individual chats and get amazing insights about the chats.
 #### Project is live at : [Whatsapp_Chat_Analyzer](https://whatsapp-chat-analyzer-bhavy.herokuapp.com/ )
-![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/analyzer.png?raw=true)
+![](https://github.com/BhavyBansal24/Whatsapp_Chat_Analyzer/blob/master/images/analyzer.jpg?raw=true)
 ## How to use Whatsapp_Chat_Analyzer web-app:
 * click [here](https://whatsapp-chat-analyzer-bhavy.herokuapp.com/ )
 * Click on Browse Files
